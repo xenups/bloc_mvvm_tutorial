@@ -27,5 +27,6 @@ class MovieBloc {
   MovieBloc() {
     fetchMovieList();
   }
-dispose(){}
+
+  dispose() {}
 }
